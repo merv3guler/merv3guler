@@ -1,6 +1,6 @@
 # 👋 Selamlar! Ben Merve! 😊
 
-Hani o dijital dünyayı herkes için biraz daha **güvenli** 🛡️, biraz daha **anlaşılır** 💡 bir yer yapmaya çalışan meraklı ve hevesli biriyim! Siber tehditler bazen karmaşık bir labirent 🌀 gibi görünse de, teknik bilgimi insan odaklı bir yaklaşımla birleştirip o labirentte yolumu bulmayı, hatta yeni, **yenilikçi patikalar** 🛤️ açmayı çok seviyorum. Amacım sadece sorunları çözmek değil, aynı zamanda **liderlik ve iletişim yeteneklerimle** harika ekiplerin bir parçası olup, kuruluşların dijital kalkanlarını güçlendirirken **insanlığa da minik de olsa faydalı** 🌍 bir iz bırakmak.
+Hani o dijital dünyayı herkes için biraz daha **güvenli** 🛡️, biraz daha **anlaşılır** 💡 bir yer yapmaya çalışan meraklı ve hevesli birisi var ya... Heh! işte o kişi benim. Siber tehditler bazen karmaşık bir labirent 🌀 gibi görünse de, teknik bilgimi insan odaklı bir yaklaşımla birleştirip o labirentte yolumu bulmayı, hatta yeni, **yenilikçi patikalar** 🛤️ açmayı çok seviyorum. Amacım sadece sorunları çözmek değil, aynı zamanda **liderlik ve iletişim yeteneklerimle** harika ekiplerin bir parçası olup, kuruluşların dijital kalkanlarını güçlendirirken **insanlığa da minik de olsa faydalı** 🌍 bir iz bırakmak.
 
 ---
 
@@ -12,7 +12,7 @@ Bu heyecanlı siber güvenlik yolculuğumda şu sıralar Ahmet Yesevi Üniversit
 
 ### 🎓 Geçmişten Gelen Süper Güç: Halkla İlişkiler!
 
-Belki şaşıracaksınız ama öncesinde **Yüksek Onur Derecesi** ile mezun olduğum bir Halkla İlişkiler Lisansım var! 📜 "Teknolojiyle ne ilgisi var?" demeyin hemen! O diploma, bana insanları anlama 🧑‍🤝‍🧑, etkili iletişim kurma 🗣️ ve en karmaşık teknik konuları bile bir fincan kahve ☕ eşliğinde anlatır gibi basitleştirme konusunda adeta sihirli bir değnek verdi! Bu da siber güvenlik farkındalığı yaratma ve ekip içinde pozitif bir enerji ✨ oluşturma hedefimde en büyük yardımcılarımdan biri.
+Belki şaşıracaksınız ama öncesinde **Yüksek Onur Derecesi** ile mezun olduğum bir Halkla İlişkiler Lisansım var! 📜 "Teknolojiyle ne ilgisi var?" demeyin hemen! O diploma, bana insanları anlama 🧑‍🤝‍🧑, etkili iletişim kurma 🗣️ ve en karmaşık teknik konuları bile bir fincan kahve ☕ eşliğinde anlatacak kadar basitleştirme konusunda adeta sihirli bir değnek verdi! Bu da siber güvenlik farkındalığı yaratma ve ekip içinde pozitif bir enerji ✨ oluşturma hedefimde en büyük yardımcım oldu.
 
 ---
 
@@ -22,12 +22,12 @@ Belki şaşıracaksınız ama öncesinde **Yüksek Onur Derecesi** ile mezun old
 
 * 🕵️‍♀️ **Phishing Tespiti & Önleme:** (İnsan psikolojisini de anlamak gerek!)
 * 🔍 **Siber Tehdit İstihbaratı (CTI):** Dijital dünyanın Sherlock Holmes'ü olmaya adayım!
-* 🛡️ **Zafiyet Analizi** & **Sosyal Mühendislik Savunmaları**
+* 🛡️ **Sosyal Mühendislik Savunmaları**
 * 📜 **Doğal Dil İşleme (NLP):** Metinlerin ruhunu okuyup onlara anlam katıyorum!
     * Metin Sınıflandırma, Anlamsal Analiz, Duygu Analizi 🤖
 * 💻 **Favori Programlama Dilim:** **Python** 🐍 (Onsuz asla!)
-* 🧠 **Makine Öğrenimi & Yapay Zeka Araçlarım:**
-    * TensorFlow, NLTK (Bu ekiple harika keşifler yapıyoruz! 🚀)
+* 🧠 **Makine Öğrenimi & Yapay Zeka Araçları:**
+    * Özellikle TensorFlow ve NLTK (Bu ekiple harika işler yapıyoruz! 🚀)
 
 ---
 
